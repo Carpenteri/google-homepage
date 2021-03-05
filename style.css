@@ -1,0 +1,63 @@
+.img {
+    padding-top: 109px;
+}
+input {
+    width: 568px;
+}
+.buttons {
+    padding-top: 10px;
+}
+.topnav {
+    overflow: hidden;
+    font-size: 13px;
+    padding-top: 13px;
+}
+
+.topnav a {
+    float: left;
+    text-align: center;
+    padding-left: 15px;
+    text-decoration: none;
+    color: #000000;
+}
+
+.topnav-right {
+    float: right;
+    text-align: center;
+}
+
+.button {
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    border: 1px solid #4285f4;
+    background-color: #4285f4;
+    color: white;
+    padding: 10px 20px;
+}
+
+.footer {
+    overflow: hidden;
+    background-color: #f2f2f2;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    font-size: 10pt;
+    border-top: 1px #e4e4e4;
+    line-height: 40px;
+}
+
+.footer a {
+    float: left;
+    text-align: center;
+    padding-left: 27px;
+    margin: 0;
+    text-decoration: none;
+    color: #5f6368;
+}
+
+.footer-right {
+    float: right;
+    text-align: center;
+}
